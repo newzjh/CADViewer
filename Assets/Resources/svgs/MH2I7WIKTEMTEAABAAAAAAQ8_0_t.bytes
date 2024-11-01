@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="100%" version="1.1" viewBox="-1,-1,2,2" width="100%">
+  <defs>
+    <style type="text/css"><![CDATA[.vectorEffectClass {vector-effect: non-scaling-stroke;}]]></style>
+  </defs>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="0.338" y1="-0.215" y2="-0.215"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.181" x2="0.338" y1="0.214" y2="0.214"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="0.338" x2="0.338" y1="0.2" y2="-0.185"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.337" y1="0.045" y2="-0.185"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.181" x2="-0.181" y1="0.2" y2="0.045"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.337" y1="0.214" y2="0.059"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.195" x2="-0.195" y1="0.214" y2="0.059"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.195" y1="0.214" y2="0.214"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.195" y1="0.059" y2="0.059"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.195" y1="0.045" y2="0.045"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="0.338" x2="0.338" y1="-0.199" y2="-0.215"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.337" y1="-0.185" y2="-0.199"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="0.338" x2="0.338" y1="-0.185" y2="-0.199"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.195" x2="-0.181" y1="0.214" y2="0.214"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.195" x2="-0.181" y1="0.215" y2="0.215"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.195" x2="-0.181" y1="0.045" y2="0.045"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.337" y1="0.059" y2="0.045"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.195" x2="-0.195" y1="0.059" y2="0.045"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="0.338" x2="0.338" y1="0.214" y2="0.2"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.181" x2="-0.181" y1="0.214" y2="0.2"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.337" y1="-0.207" y2="-0.215"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.337" y1="-0.2" y2="-0.207"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.337" x2="-0.337" y1="-0.199" y2="-0.2"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.195" x2="-0.195" y1="0.215" y2="0.214"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-width="0.5" x1="-0.181" x2="-0.181" y1="0.215" y2="0.214"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-dasharray="5.0 5.0" stroke-width="0.5" x1="-0.337" x2="0.338" y1="-0.185" y2="-0.185"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-dasharray="5.0 5.0" stroke-width="0.5" x1="-0.337" x2="0.338" y1="-0.199" y2="-0.199"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-dasharray="5.0 5.0" stroke-width="0.5" x1="-0.337" x2="0.337" y1="-0.2" y2="-0.2"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-dasharray="5.0 5.0" stroke-width="0.5" x1="-0.337" x2="0.337" y1="-0.207" y2="-0.207"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-dasharray="5.0 5.0" stroke-width="0.5" x1="-0.181" x2="0.338" y1="0.2" y2="0.2"/>
+  <line class="vectorEffectClass" fill="none" stroke="black" stroke-dasharray="5.0 5.0" stroke-width="0.5" x1="0.337" x2="0.337" y1="-0.2" y2="-0.207"/>
+</svg>
